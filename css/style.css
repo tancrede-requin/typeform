@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Markazi+Text&family=Roboto");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: "Markazi text", serif;
+	font-size: 20px;
+	margin: 0px;
+	background: black;
+}
+h1, h2, h3{
+	font-family: "Roboto", serif;
+	font-weight: bold;
+	font-size: 30px;
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	font-family: "Markazi Text", serif;
+}
